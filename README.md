@@ -3,16 +3,20 @@
 
 ### Login
 
-![Login](screenshots/login.png)
+![](screenshots/login.png)
 
-### Dashboard
+### Loading Screen
 
-![Dashboard](screenshots/dashboard.png)
+![](screenshots/loading.png)
+
+### Prediction Dashboard
+
+![](screenshots/dashboard.png)
 
 ### Leaderboard
 
-![Leaderboard](screenshots/leaderboard.png)
+![](screenshots/leaderboard.png)
 
-### Profile
+### User Profile
 
-![Profile](screenshots/profile.png)
+![](screenshots/profile.png)
